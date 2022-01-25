@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestOverone</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="список">Открыть список доступных сервисов</string>
+    <string name="показать">показать</string>
+    <string name="удалить">Удалить все метки</string>
+</resources>
